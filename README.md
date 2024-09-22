@@ -1,4 +1,4 @@
-# GestionRestaurant-Beldi Flavored
+# Gestion de Restaurant--Beldi Flavored
 ## Developpement d’une plateforme de gestion de restaurant
 ## Introduction
 Beldi Flavored est une plateforme de gestion de restaurant qui propose une solution complète et innovante pour optimiser les opérations quotidiennes et enrichir l'expérience client. Grâce à des fonctionnalités telles que la gestion des réservations, des stocks, du personnel et des menus, elle s'adapte aux besoins spécifiques de chaque établissement, qu'il s'agisse d'un restaurant indépendant ou d'une chaîne renommée.
