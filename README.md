@@ -8,10 +8,10 @@ Beldi Flavored est une plateforme de gestion de restaurant qui propose une solut
 
 ## Services
 Nous offrons une gamme de services pour répondre à vos besoins en gestion de restaurant :
--**Commandes de repas** : Notre plateforme permet aux utilisateurs de parcourir le menu, de passer des commandes et de suivre l'état de leur repas en temps réel.
--**Réservation de tables** : Les clients peuvent vérifier la disponibilité des tables et effectuer des réservations directement via la plateforme, avec des confirmations instantanées.
--**Tableau de bord administrateur** : Un tableau de bord complet pour la gestion du restaurant, incluant des outils pour la mise à jour des menus, la gestion des réservations et l'analyse des ventes.
--**Tableau de bord utilisateur** : Une interface intuitive permettant aux clients de consulter leurs commandes, réservations et historiques de transactions.
+- **Commandes de repas** : Notre plateforme permet aux utilisateurs de parcourir le menu, de passer des commandes et de suivre l'état de leur repas en temps réel.
+- **Réservation de tables** : Les clients peuvent vérifier la disponibilité des tables et effectuer des réservations directement via la plateforme, avec des confirmations instantanées.
+- **Tableau de bord administrateur** : Un tableau de bord complet pour la gestion du restaurant, incluant des outils pour la mise à jour des menus, la gestion des réservations et l'analyse des ventes.
+- **Tableau de bord utilisateur** : Une interface intuitive permettant aux clients de consulter leurs commandes, réservations et historiques de transactions.
 ## Overview
 ### Interface Web 
 Explorant maintenant notre interface web. La premiere page à voir c’est la page **Home**
@@ -58,7 +58,7 @@ Un **User Dashboard** simple et facile a manipuler.
 
 ![User Dashbord](images/7.png)
 
-**En conclusion**, notre projet de gestion de restaurant Beldi Flavored aspire à optimiser l’expérience client tout en valorisant la richesse de la cuisine locale.
+
 
 ## Outils
 
@@ -76,6 +76,8 @@ Pour le développement de la plateforme Beldi Flavored, nous avons utilisé les 
 
 
 Cette combinaison d'outils et de langages permet de garantir la performance, la sécurité et la convivialité de notre plateforme.
+
+**En conclusion**, notre projet de gestion de restaurant Beldi Flavored aspire à optimiser l’expérience client tout en valorisant la richesse de la cuisine locale.
 
 **Team** 
 - [Hnais Saaida](https://github.com/saaida1)
