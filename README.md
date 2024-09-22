@@ -60,16 +60,26 @@ Un **User Dashboard** simple et facile a manipuler.
 
 
 
-## Outils
+## Technologies Utilisées
 
 Pour le développement de la plateforme Beldi Flavored, nous avons utilisé les outils et langages de programmation suivants :
 
-<p align="center">
-  <img width="151" height="128" src="images/react.png" alt="react" >
-  <img width="290" height="143" src="images/springboot.png" alt="Spring Boot" >
-  <img width="292" height="141" src="images/mysql.png" alt="MySQL">
-</p>
 
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="springBoot" />
+      <br>Spring Boot
+    </td>
+   <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="55" height="55" />
+      <br>MySql
+  
+ </table>
 - **React** : Bibliothèque JavaScript utilisée pour construire l'interface utilisateur, rendant l'application réactive et dynamique.
 - **Spring Boot** : Framework utilisé pour créer des applications web robustes et évolutives.
 - **MySQL** : Système de gestion de base de données pour stocker et gérer les données de la plateforme.
